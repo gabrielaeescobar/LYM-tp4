@@ -2,6 +2,8 @@
 Para las pruebas, antes hay que poner #
 -----------------------------------------
 TASK 1:
+-----------------------------------------
+
 Casos aceptados:
 #b0000
 #xb00001
@@ -13,8 +15,9 @@ Casos de rechazo:
 #xxxxxxxxxb1000
 #xxxb0101
 
------------------------------------------
 TASK 2:
+-----------------------------------------
+
 Casos aceptados:
 #aabbcccc
 #aaabbbbcccccccccccc
@@ -24,5 +27,4 @@ Casos de rechazo:
 #aabbccc
 #aaabbbcccccccccc
 #abbbbccccccc
------------------------------------------
 
